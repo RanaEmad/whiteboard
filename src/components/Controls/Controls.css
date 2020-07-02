@@ -5,3 +5,18 @@
   justify-content: center;
   width: auto;
 }
+.controls .fa-icon {
+  cursor: pointer;
+  font-size: 3rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 30%;
+  box-shadow: 0 0 6px black;
+  z-index: 2;
+  color: #071a54;
+  background: linear-gradient(
+    90deg,
+    rgba(174, 238, 237, 1) 0%,
+    rgba(181, 23, 23, 1) 100%
+  );
+}
