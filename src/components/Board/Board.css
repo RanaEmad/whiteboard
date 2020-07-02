@@ -1,0 +1,13 @@
+.board {
+  background-color: white;
+  cursor: crosshair;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
